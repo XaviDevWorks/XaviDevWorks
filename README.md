@@ -6,7 +6,7 @@ Como programador y piloto de drones, tengo un historial de proyectos destacados 
 ---
 
 ## 🧑‍💻 **Lenguajes de Programación:**  
-[![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![Java](https://img.shields.io/badge/Java-11-blue?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)  [![C++](https://img.shields.io/badge/C++-11-blue?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)  [![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)  [![HTML5](https://img.shields.io/badge/HTML5-blue?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![Java](https://img.shields.io/badge/Java-11-blue?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)  [![C++](https://img.shields.io/badge/C++-11-blue?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)  [![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)  [![HTML5](https://img.shields.io/badge/HTML5-5.0-blue?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS3](https://img.shields.io/badge/CSS3-3.0-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 
 ---
 
