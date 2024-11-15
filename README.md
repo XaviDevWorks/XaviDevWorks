@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @XaviDevWorks
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+# ¡Hola! 👋 Soy Xavier Farrús
+Soy un apasionado de la tecnología, el desarrollo de software y la aviación. 🛩️👨‍💻
+
+<!---
+XaviDevWorks/XaviDevWorks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+![Xavier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
