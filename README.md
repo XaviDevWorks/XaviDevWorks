@@ -39,7 +39,8 @@ Como programador y piloto de drones, tengo un historial de proyectos destacados 
 ---
 
 ## 📈 **Proyectos en Desarrollo:**  
-![Estadísticas de XaviDevWorks](https://github-readme-stats.vercel.app/api?username=XaviDevWorks&show_icons=true&count_private=true&hide_title=true&hide=prs) ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=XaviDevWorks&layout=compact&langs_count=8&theme=radical)
+![Estadísticas de XaviDevWorks](https://github-readme-stats.vercel.app/api?username=XaviDevWorks&show_icons=true&count_private=true&hide_title=true&hide=prs) 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=XaviDevWorks&layout=compact&langs_count=8&theme=radical)
 
 ---
 
