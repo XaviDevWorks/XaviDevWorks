@@ -1,5 +1,5 @@
 
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=XaviDevWorks.bienvenida)
 # ¡Hola! 👋 Soy **Xavier Farrús**  
 
 Apasionado por la tecnología, el desarrollo de software y la aviación, combino mi experiencia técnica con la innovación para crear soluciones únicas y de alto impacto. 🛩️👨‍💻  
