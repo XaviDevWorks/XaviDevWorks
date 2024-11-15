@@ -32,7 +32,7 @@ As a programmer and drone pilot, I have a history of notable projects such as pr
 
 ---
 
-## 🌱 **Education:**  
+## 🏛️ **Education:**  
 - **Technical Baccalaureate** - *La Salle Congrés*  
 - **Development of Multiplatform Applications (DAM)** - *La Salle Gràcia*  
 
