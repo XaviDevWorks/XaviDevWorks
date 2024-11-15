@@ -7,30 +7,33 @@ Como programador y piloto de drones, tengo un historial de proyectos que van des
 
 ## 🧑‍💻 **Lenguajes de Programación:**
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-11-blue?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-11-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML5-CSS3-blue?style=for-the-badge&logo=html5&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Java](https://img.shields.io/badge/Java-11-blue?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![C++](https://img.shields.io/badge/C++-11-blue?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
+[![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![HTML5](https://img.shields.io/badge/HTML5-blue?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+---
 
 ## 🛠️ **Herramientas y Tecnologías:**
 
 ### **Bases de Datos:**
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
 ### **Herramientas de Desarrollo:**
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-IDE-blue?style=for-the-badge&logo=visualstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Git/GitHub](https://img.shields.io/badge/Git/GitHub-Tools-black?style=for-the-badge&logo=git&logoColor=white)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-IDE-blue?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Git/GitHub](https://img.shields.io/badge/Git/GitHub-Tools-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com)
 
 ### **Diseño y Prototipado:**
-![Fusion 360](https://img.shields.io/badge/Fusion_360-Design-blue?style=for-the-badge&logo=fusion360&logoColor=white)
-![Simplify 3D](https://img.shields.io/badge/Simplify_3D-Design-blue?style=for-the-badge&logo=blender&logoColor=white)
-![Carbide Create](https://img.shields.io/badge/Carbide_Create-Design-blue?style=for-the-badge&logo=blender&logoColor=white)
-![OrcaSlicer](https://img.shields.io/badge/OrcaSlicer-Design-blue?style=for-the-badge&logo=blender&logoColor=white)
+[![Fusion 360](https://img.shields.io/badge/Fusion_360-Design-blue?style=for-the-badge&logo=fusion360&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)
+[![Simplify 3D](https://img.shields.io/badge/Simplify_3D-Design-blue?style=for-the-badge&logo=blender&logoColor=white)](https://www.simplify3d.com)
+[![Carbide Create](https://img.shields.io/badge/Carbide_Create-Design-blue?style=for-the-badge&logo=blender&logoColor=white)](https://carbide3d.com/carbidecreate/)
+[![OrcaSlicer](https://img.shields.io/badge/OrcaSlicer-Design-blue?style=for-the-badge&logo=blender&logoColor=white)](https://github.com/Belval/OrcaSlicer)
 
---- 
+---
 
 ## 🌱 **Educación:**  
 - **Bachillerato Tecnológico** - La Salle Congrés  
@@ -49,7 +52,7 @@ Como programador y piloto de drones, tengo un historial de proyectos que van des
 [![YouTube](https://img.shields.io/badge/YouTube-S%C3%ADgueme-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@xavierfarrus)  
 [![Facebook](https://img.shields.io/badge/Facebook-S%C3%ADgueme-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/xavierfarrus/?locale=es_ES)
 [![TikTok](https://img.shields.io/badge/TikTok-S%C3%ADgueme-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@xavierfarrus_rc)  
-[![Mi Página Web](https://img.shields.io/badge/Mi_P%C3%A1gina_Web-Visitar-2ea44f?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/xavierfarrus)  
+[![Mi Página Web](https://img.shields.io/badge/Mi_Página_Web-Visitar-2ea44f?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/xavierfarrus)  
 
 ---
 
@@ -58,4 +61,4 @@ Como programador y piloto de drones, tengo un historial de proyectos que van des
 
 ---
 
-**Enlace a mi GitHub:** [XaviDevWorks](https://github.com/XaviDevWorks)  
+**Enlace a mi GitHub:** [XaviDevWorks](https://github.com/XaviDevWorks)
