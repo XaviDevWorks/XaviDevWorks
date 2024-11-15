@@ -7,9 +7,8 @@
 [![Mi Página Web](https://img.shields.io/badge/Mi_P%C3%A1gina_Web-Visitar-2ea44f?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/xavierfarrus)
 
 
-### Estadísticas de GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-### Trofeos:
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-### Lenguajes más usados:
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# XaviDevWorks
+
+![Contribuciones de XaviDevWorks](https://img.shields.io/github/commit-activity/m/XaviDevWorks?style=flat&label=contribuciones)
+![Estadísticas de XaviDevWorks](https://github-readme-stats.vercel.app/api?username=XaviDevWorks&show_icons=true&count_private=true&hide_title=true)
+![Lenguajes de XaviDevWorks](https://github-readme-stats.vercel.app/api/top-langs/?username=XaviDevWorks&layout=compact&langs_count=8)
