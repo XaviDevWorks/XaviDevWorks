@@ -5,26 +5,36 @@ Como programador y piloto de drones, tengo un historial de proyectos que van des
 
 ---
 
-## 🔧 **Habilidades y Tecnologías:**
+## 🧑‍💻 **Lenguajes de Programación:**
 
-- **Lenguajes de Programación:** Python, Java, C++, SQL, HTML/CSS  
-- **Bases de Datos:** MySQL, SQL Server  
-- **Herramientas de Desarrollo:** Visual Studio, IntelliJ IDEA, Git/GitHub  
-- **Diseño y Prototipado:** Fusion 360, Simplify 3D, Carbide Create, Orcaslicer  
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-11-blue?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-11-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML5-CSS3-blue?style=for-the-badge&logo=html5&logoColor=white)
 
-## 🌱 **Educación y Certificaciones:**  
+## 🛠️ **Herramientas y Tecnologías:**
+
+### **Bases de Datos:**
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### **Herramientas de Desarrollo:**
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-IDE-blue?style=for-the-badge&logo=visualstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git/GitHub](https://img.shields.io/badge/Git/GitHub-Tools-black?style=for-the-badge&logo=git&logoColor=white)
+
+### **Diseño y Prototipado:**
+![Fusion 360](https://img.shields.io/badge/Fusion_360-Design-blue?style=for-the-badge&logo=fusion360&logoColor=white)
+![Simplify 3D](https://img.shields.io/badge/Simplify_3D-Design-blue?style=for-the-badge&logo=blender&logoColor=white)
+![Carbide Create](https://img.shields.io/badge/Carbide_Create-Design-blue?style=for-the-badge&logo=blender&logoColor=white)
+![OrcaSlicer](https://img.shields.io/badge/OrcaSlicer-Design-blue?style=for-the-badge&logo=blender&logoColor=white)
+
+--- 
+
+## 🌱 **Educación:**  
 - **Bachillerato Tecnológico** - La Salle Congrés  
 - **Desarrollo de Aplicaciones Multiplataforma (DAM)** - La Salle Gràcia  
-- **Licencia Dron A1/A3** - AESA  
-- **Certificaciones:**  
-  - Git Básico  
-  - Energía Solar Fotovoltaica - Cursa, UPV
-
----
-
-## 🌍 **Idiomas:**  
-- Español y Catalán - Nativo  
-- Inglés - Nivel B1  
 
 ---
 
@@ -37,6 +47,7 @@ Como programador y piloto de drones, tengo un historial de proyectos que van des
 ## 🌐 **Conéctate conmigo:**  
 [![Instagram](https://img.shields.io/badge/Instagram-S%C3%ADgueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xavierfarrus/)  
 [![YouTube](https://img.shields.io/badge/YouTube-S%C3%ADgueme-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@xavierfarrus)  
+[![Facebook](https://img.shields.io/badge/Facebook-S%C3%ADgueme-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/xavierfarrus/?locale=es_ES)
 [![TikTok](https://img.shields.io/badge/TikTok-S%C3%ADgueme-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@xavierfarrus_rc)  
 [![Mi Página Web](https://img.shields.io/badge/Mi_P%C3%A1gina_Web-Visitar-2ea44f?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/xavierfarrus)  
 
