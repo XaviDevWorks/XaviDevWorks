@@ -1,55 +1,50 @@
 # ¡Hola! 👋 Soy **Xavier Farrús**  
-Soy un apasionado de la tecnología, el desarrollo de software y la aviación. 🛩️👨‍💻
+Apasionado por la tecnología, el desarrollo de software y la aviación, combino mi experiencia técnica con mi amor por la innovación para crear soluciones únicas y de alto impacto. 🛩️👨‍💻  
 
-Con años de experiencia en el campo de la programación y el trabajo con drones, mi enfoque está en construir soluciones innovadoras que transformen ideas en realidades tecnológicas. 💡
-
-## 🔧 **Tecnologías que manejo:**
-- **Lenguajes de Programación:** Python, JavaScript, C++, SQL, HTML/CSS
-- **Herramientas:** Git, Docker, Kubernetes, Jenkins
-- **Plataformas:** GitHub, GitLab, AWS, Azure
-- **Otros:** Drones, IA, Machine Learning, Cloud Computing
+Como programador y piloto de drones, tengo un historial de proyectos que van desde servidores para videojuegos hasta grabaciones aéreas profesionales y diseño en 3D. Mi enfoque se centra en la precisión, la adaptabilidad y el crecimiento continuo.  
 
 ---
 
-## 📈 **Estadísticas y Contribuciones:**
+## 🔧 **Habilidades y Tecnologías:**
 
-![Estadísticas de XaviDevWorks](https://github-readme-stats.vercel.app/api?username=XaviDevWorks&show_icons=true&count_private=true&hide_title=true&hide=prs)
+- **Lenguajes de Programación:** Python, Java, C++, SQL, HTML/CSS  
+- **Bases de Datos:** MySQL, SQL Server  
+- **Herramientas de Desarrollo:** Visual Studio, IntelliJ IDEA, Git/GitHub  
+- **Diseño y Prototipado:** Fusion 360, Simplify 3D, Carbide Create, Orcaslicer  
 
----
-
-## 🧑‍💻 **Lenguajes de Programación Utilizados:**
-
-![Lenguajes de XaviDevWorks](https://github-readme-stats.vercel.app/api/top-langs/?username=XaviDevWorks&layout=compact&langs_count=8)
-
----
-
-## 🌍 **Conéctate conmigo:**
-
-[![Instagram](https://img.shields.io/badge/Instagram-S%C3%ADgueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xavierfarrus/)
-[![YouTube](https://img.shields.io/badge/YouTube-S%C3%ADgueme-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@xavierfarrus)
-[![Facebook](https://img.shields.io/badge/Facebook-S%C3%ADgueme-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/xavierfarrus/?locale=es_ES)
-[![TikTok](https://img.shields.io/badge/TikTok-S%C3%ADgueme-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@xavierfarrus_rc)
-[![Mi Página Web](https://img.shields.io/badge/Mi_P%C3%A1gina_Web-Visitar-2ea44f?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/xavierfarrus)
+## 🌱 **Educación y Certificaciones:**  
+- **Bachillerato Tecnológico** - La Salle Congrés  
+- **Desarrollo de Aplicaciones Multiplataforma (DAM)** - La Salle Gràcia  
+- **Licencia Dron A1/A3** - AESA  
+- **Certificaciones:**  
+  - Git Básico  
+  - Energía Solar Fotovoltaica - Cursa, UPV
 
 ---
 
-## 📑 **Sobre mí:**
-
-Soy un **médico de urgencias** con una pasión por la tecnología y la innovación. A través de mi trabajo, busco siempre integrar soluciones tecnológicas que mejoren el rendimiento y la seguridad en el ámbito de la aviación, la medicina y otros sectores de alto impacto. 🚀
-
-Mi objetivo es **aprender** y **compartir conocimientos**, así como trabajar en proyectos colaborativos que permitan el crecimiento y avance de la tecnología.
+## 🌍 **Idiomas:**  
+- Español y Catalán - Nativo  
+- Inglés - Nivel B1  
 
 ---
 
-## 📧 **Contáctame:**
-
-Si tienes alguna pregunta o quieres hablar sobre oportunidades de colaboración, no dudes en **contactarme** a través de mis redes o mediante el siguiente correo electrónico:  
-📧 **xavier.farrus@ejemplo.com** (reemplaza con tu email real).
-
----
-
-Gracias por visitar mi perfil, ¡espero conectar contigo! 💬
+## 📈 **Proyectos en Desarrollo:**  
+![Estadísticas de XaviDevWorks](https://github-readme-stats.vercel.app/api?username=XaviDevWorks&show_icons=true&count_private=true&hide_title=true&hide=prs)  
+![Lenguajes de XaviDevWorks](https://github-readme-stats.vercel.app/api/top-langs/?username=XaviDevWorks&layout=compact&langs_count=8)  
 
 ---
 
-**Enlace a mi GitHub:** [XaviDevWorks](https://github.com/XaviDevWorks)
+## 🌐 **Conéctate conmigo:**  
+[![Instagram](https://img.shields.io/badge/Instagram-S%C3%ADgueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xavierfarrus/)  
+[![YouTube](https://img.shields.io/badge/YouTube-S%C3%ADgueme-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@xavierfarrus)  
+[![TikTok](https://img.shields.io/badge/TikTok-S%C3%ADgueme-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@xavierfarrus_rc)  
+[![Mi Página Web](https://img.shields.io/badge/Mi_P%C3%A1gina_Web-Visitar-2ea44f?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/xavierfarrus)  
+
+---
+
+## 📧 **Contáctame:**  
+**Correo:** xfarmart@gmail.com  
+
+---
+
+**Enlace a mi GitHub:** [XaviDevWorks](https://github.com/XaviDevWorks)  
