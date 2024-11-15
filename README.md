@@ -1,6 +1,3 @@
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=XaviDevWorks.bienvenida)
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=XaviDevWorks.bienvenida" />
 
 # ¡Hola! 👋 Soy **Xavier Farrús**  
