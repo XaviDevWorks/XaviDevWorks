@@ -1,3 +1,6 @@
+# ¡Hola! 👋 Soy Xavier Farrús
+Soy un apasionado de la tecnología, el desarrollo de software y la aviación. 🛩️👨‍💻
+
 ### Conéctate conmigo:
 
 [![Instagram](https://img.shields.io/badge/Instagram-S%C3%ADgueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xavierfarrus/)
