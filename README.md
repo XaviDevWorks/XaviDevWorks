@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Bienvenido!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=¡Bienvenido!" />
 </h1>
 
 Apasionado por la tecnología, el desarrollo de software y la aviación, combino mi experiencia técnica con la innovación para crear soluciones únicas y de alto impacto. 🛩️👨‍💻  
