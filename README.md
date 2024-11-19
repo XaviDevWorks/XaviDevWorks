@@ -39,7 +39,7 @@ As a programmer and drone pilot, I have a history of notable projects such as pr
 ---
 
 ## 📈 **Projects in Development:**  
-![XaviDevWorks's Stats](https://github-readme-stats.vercel.app/api?username=XaviDevWorks&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
+![XaviDevWorks's Stats](https://github-readme-stats.vercel.app/api?username=XaviDevWorks&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=20)
 
 ![XaviDevWorks's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XaviDevWorks&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800)
 
