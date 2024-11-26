@@ -3,7 +3,6 @@
 <h1 align="center">
   <strong>Hello! I'm Xavier Farrús</strong>
 </h1>
-a
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Welcome!" />
