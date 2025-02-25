@@ -34,7 +34,8 @@ As a programmer and drone pilot, I have a history of notable projects such as pr
 
 ## 🏛️ **Education:**  
 - **Technological Baccalaureate** - *La Salle Congrés*  
-- **Development of Multiplatform Applications (DAM)** - *La Salle Gràcia*  
+- **Development of Multiplatform Applications (DAM)** - *La Salle Gràcia*
+- **Drone licence A1/A3** - *AESA*
 
 ---
 
