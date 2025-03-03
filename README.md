@@ -66,15 +66,19 @@
 ---
 
 ## 📈 **Projects in Development:**  
-![XaviDevWorks's Stats](https://github-readme-stats.vercel.app/api?username=XaviDevWorks&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=20)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XaviDevWorks&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=20" alt="XaviDevWorks's Stats"/>
+</p>
 
-![XaviDevWorks's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XaviDevWorks&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&cache_seconds=20)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XaviDevWorks&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&cache_seconds=20" alt="XaviDevWorks's Top Languages"/>
+</p>
 
 ---
 
 ## ⏳ **Coding Activity**  
 <p align="center">
-  <img src="https://wakatime.com/share/@5694d6a7-cd95-4164-9f58-bfae51c03755/b0eac162-1b32-44e1-8e9a-8c934be339f2.svg" alt="WakaTime Stats"/>
+  <img src="https://wakatime.com/share/@5694d6a7-cd95-4164-9f58-bfae51c03755/3f4d3cf8-9b8e-4bbe-be45-331ac1edb8fa.svg" alt="WakaTime Stats"/>
 </p>
 
 ---
