@@ -78,7 +78,7 @@
 
 ## ⏳ **Coding Activity**  
 <p align="center">
-  <img src="https://wakatime.com/share/@5694d6a7-cd95-4164-9f58-bfae51c03755/3f4d3cf8-9b8e-4bbe-be45-331ac1edb8fa.svg" alt="WakaTime Stats"/>
+  <img src="https://wakatime.com/share/@5694d6a7-cd95-4164-9f58-bfae51c03755/6ce12f57-00ac-406b-a4a2-e364a8ce9a88.svg" alt="WakaTime Stats"/>
 </p>
 
 ---
