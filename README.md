@@ -70,7 +70,12 @@
 
 ![XaviDevWorks's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XaviDevWorks&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&cache_seconds=20)
 
-<figure><embed src="https://wakatime.com/share/@5694d6a7-cd95-4164-9f58-bfae51c03755/b0eac162-1b32-44e1-8e9a-8c934be339f2.svg"></embed></figure>
+---
+
+## ⏳ **Coding Activity**  
+<p align="center">
+  <img src="https://wakatime.com/share/@5694d6a7-cd95-4164-9f58-bfae51c03755/b0eac162-1b32-44e1-8e9a-8c934be339f2.svg" alt="WakaTime Stats"/>
+</p>
 
 ---
 
