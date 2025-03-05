@@ -28,6 +28,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-3.0-blue?style=for-the-badge&logo=css3&logoColor=white"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-Scripting-blue?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
   <a href="https://www.w3.org/XML/"><img src="https://img.shields.io/badge/XML-Data-blue?style=for-the-badge&logo=xml&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-ES6+-blue?style=for-the-badge&logo=javascript&logoColor=white"/></a>
 </p>
 
 ---
