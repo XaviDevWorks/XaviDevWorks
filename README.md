@@ -36,26 +36,32 @@
 ## 🛠️ **Tools and Technologies:**  
 
 ### **Databases:**  
-<p>
-  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
-</p>
+<div align="center">
+  <p>
+    <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+    <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
+  </p>
+</div>
 
 ### **Development Tools:**  
-<p>
-  <a href="https://visualstudio.microsoft.com"><img src="https://img.shields.io/badge/Visual_Studio-IDE-blue?style=for-the-badge&logo=visualstudio&logoColor=white"/></a>
-  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
-  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-Tools-black?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Tools-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<div align="center">
+  <p>
+    <a href="https://visualstudio.microsoft.com"><img src="https://img.shields.io/badge/Visual_Studio-IDE-blue?style=for-the-badge&logo=visualstudio&logoColor=white"/></a>
+    <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
+    <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-Tools-black?style=for-the-badge&logo=git&logoColor=white"/></a>
+    <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Tools-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </p>
+</div>
 
 ### **Design and Prototyping:**  
-<p>
-  <a href="https://www.autodesk.com/products/fusion-360"><img src="https://img.shields.io/badge/Fusion_360-Design-blue?style=for-the-badge&logo=fusion360&logoColor=white"/></a>
-  <a href="https://www.simplify3d.com"><img src="https://img.shields.io/badge/Simplify_3D-Design-blue?style=for-the-badge&logo=simplify3d&logoColor=white"/></a>
-  <a href="https://carbide3d.com/carbidecreate/"><img src="https://img.shields.io/badge/Carbide_Create-Design-blue?style=for-the-badge&logo=blender&logoColor=white"/></a>
-  <a href="https://orcadesign3d.com"><img src="https://img.shields.io/badge/OrcaSlicer-Design-blue?style=for-the-badge&logo=blender&logoColor=white"/></a>
-</p>
+<div align="center">
+  <p>
+    <a href="https://www.autodesk.com/products/fusion-360"><img src="https://img.shields.io/badge/Fusion_360-Design-blue?style=for-the-badge&logo=fusion360&logoColor=white"/></a>
+    <a href="https://www.simplify3d.com"><img src="https://img.shields.io/badge/Simplify_3D-Design-blue?style=for-the-badge&logo=simplify3d&logoColor=white"/></a>
+    <a href="https://carbide3d.com/carbidecreate/"><img src="https://img.shields.io/badge/Carbide_Create-Design-blue?style=for-the-badge&logo=blender&logoColor=white"/></a>
+    <a href="https://orcadesign3d.com"><img src="https://img.shields.io/badge/OrcaSlicer-Design-blue?style=for-the-badge&logo=blender&logoColor=white"/></a>
+  </p>
+</div>
 
 ---
 
