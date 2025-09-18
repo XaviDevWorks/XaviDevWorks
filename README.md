@@ -72,10 +72,11 @@
 
 ---
 
-## 📈 **Projects in Development:**  
+## 📈 **Projects in Development:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XaviDevWorks&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=20" alt="XaviDevWorks's Stats" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XaviDevWorks&show_icons=true&theme=github_dark&hide_border=true" alt="XaviDevWorks GitHub Stats" width="100%"/>
 </p>
+
 
 ---
 
