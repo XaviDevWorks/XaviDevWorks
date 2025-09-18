@@ -74,7 +74,9 @@
 
 ## 📈 **Projects in Development:**
 <p align="center">
-  [<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XaviDevWorks&show_icons=true&theme=github_dark&hide_border=true" alt="XaviDevWorks GitHub Stats" width="100%"/>](https://github-readme-stats.vercel.app/api?username=XaviDevWorks&show_icons=true&theme=github_dark&hide_border=true )
+  <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XaviDevWorks&show_icons=true&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XaviDevWorks&show_icons=true&theme=github_dark&hide_border=true" alt="XaviDevWorks GitHub Stats" width="100%"/>
+  </a>
 </p>
 
 ---
