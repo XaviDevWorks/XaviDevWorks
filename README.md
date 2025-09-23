@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=XaviDevWorks.bienvenida" />
 
 <h1 align="center">
-  <strong>👋 Hello! I'm Xavier Farrús</strong>
+  <strong>Hello! I'm Xavier Farrús</strong>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="margin-left:5px" />
 </h1>
 
 <h1 align="center">
