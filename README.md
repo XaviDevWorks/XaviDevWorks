@@ -18,22 +18,29 @@
 
 ---
 
-## 🧑‍💻 **Programming Languages:**  
+### - Languages and Tools...
+
 <p align="center">
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-11-blue?style=for-the-badge&logo=java&logoColor=white"/></a>
-  <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-11-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
-  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-5.0-blue?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-3.0-blue?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-Scripting-blue?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
-  <a href="https://www.w3.org/XML/"><img src="https://img.shields.io/badge/XML-Data-blue?style=for-the-badge&logo=xml&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-ES6+-blue?style=for-the-badge&logo=javascript&logoColor=white"/></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-8.0-blue?style=for-the-badge&logo=csharp&logoColor=white"/></a>
-  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-1.9-blue?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
-  <a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-5-blue?style=for-the-badge&logo=swift&logoColor=white"/></a>
-  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-8-blue?style=for-the-badge&logo=php&logoColor=white"/></a>
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <!-- New additions -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/swift.svg" alt="swift" style="vertical-align:top; margin:4px">
 </p>
+
 
 ---
 
