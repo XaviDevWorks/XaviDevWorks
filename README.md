@@ -20,25 +20,22 @@
 ---
 
 ## 🧑‍💻 **Languages and Tools**
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-<p align="center">
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-10-blue?style=for-the-badge&logo=csharp&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-8-blue?style=for-the-badge&logo=php&logoColor=white"/></a>
-  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-1.9-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
-  <a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-5-orange?style=for-the-badge&logo=swift&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-5.0-red?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-3.0-blue?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-Framework-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
-  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-Framework-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
-  <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-IDE-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/></a>
-  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
-</p>
 
 ---
 
