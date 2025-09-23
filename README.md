@@ -40,29 +40,30 @@
 </p>
 
 ---
-
 ## 🛠️ **Tools and Technologies**
 
 ### **Databases**
 <div align="center">
-  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
+  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
 </div>
 
 ### **Design & Prototyping**
 <div align="center">
-  <a href="https://www.autodesk.com/products/fusion-360"><img src="https://img.shields.io/badge/Fusion_360-Design-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white"/></a>
-  <a href="https://www.simplify3d.com"><img src="https://img.shields.io/badge/Simplify3D-Design-005FAD?style=for-the-badge&logo=blender&logoColor=white"/></a>
-  <a href="https://carbide3d.com/carbidecreate/"><img src="https://img.shields.io/badge/Carbide_Create-Design-00A98F?style=for-the-badge&logo=blender&logoColor=white"/></a>
-  <a href="https://orcadesign3d.com"><img src="https://img.shields.io/badge/OrcaSlicer-Design-FF4C60?style=for-the-badge&logo=blender&logoColor=white"/></a>
+  <a href="https://www.autodesk.com/products/fusion-360"><img src="https://img.shields.io/badge/Fusion%20360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white"/></a>
+  <a href="https://www.simplify3d.com"><img src="https://img.shields.io/badge/Simplify3D-005FAD?style=for-the-badge&logo=blender&logoColor=white"/></a>
+  <a href="https://carbide3d.com/carbidecreate/"><img src="https://img.shields.io/badge/Carbide%20Create-00A98F?style=for-the-badge&logo=blender&logoColor=white"/></a>
+  <a href="https://orcadesign3d.com"><img src="https://img.shields.io/badge/OrcaSlicer-FF4C60?style=for-the-badge&logo=blender&logoColor=white"/></a>
 </div>
 
 ---
 
 ## 🏛️ **Education**
-- 🎓 **Technological Baccalaureate** – *La Salle Congrés*  
-- 🎓 **Development of Multiplatform Applications (DAM)** – *La Salle Gràcia*  
-- 🚁 **Drone Licence A1/A3** – *AESA*  
+<div align="center">
+  <img src="https://img.shields.io/badge/Technological%20Baccalaureate-La%20Salle%20Congr%C3%A9s-4EAA25?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAM%20(Multiplatform%20Apps)-La%20Salle%20Gr%C3%A0cia-007ACC?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drone%20Licence%20A1/A3-AESA-FF6F00?style=for-the-badge&logo=drone&logoColor=white"/>
+</div>
 
 ---
 
@@ -81,14 +82,16 @@
 ---
 
 ## 🌐 **Connect with me**
-<p align="center">
-  <a href="https://www.instagram.com/xavierfarrus/"><img src="https://img.shields.io/badge/Instagram-Follow_E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<div align="center">
+  <a href="https://www.instagram.com/xavierfarrus/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@xavierfarrus"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
 ## 📧 **Contact Me**
-📩 **Email:** [xfarmart@gmail.com](mailto:xfarmart@gmail.com)  
-🌍 **Website:** [My Linktree](https://linktr.ee/xavierfarrus)  
-🐙 **GitHub:** [XaviDevWorks](https://github.com/XaviDevWorks)
+<div align="center">
+  <a href="mailto:xfarmart@gmail.com"><img src="https://img.shields.io/badge/Email-xfarmart@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linktr.ee/xavierfarrus"><img src="https://img.shields.io/badge/Website-My%20Linktree-2EC866?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="https://github.com/XaviDevWorks"><img src="https://img.shields.io/badge/GitHub-XaviDevWorks-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
