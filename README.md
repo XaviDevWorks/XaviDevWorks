@@ -21,6 +21,7 @@
 ### - Languages and Tools...
 
 <p align="center">
+  <!-- Todos los íconos existen en el repositorio ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
@@ -35,12 +36,11 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <!-- New additions -->
+  <!-- Nuevos añadidos (verificados) -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/swift.svg" alt="swift" style="vertical-align:top; margin:4px">
 </p>
-
 
 ---
 
@@ -67,8 +67,8 @@
 ### **Design and Prototyping:**  
 <div align="center">
   <p>
-    <a href="https://www.autodesk.com/products/fusion-360"><img src="https://img.shields.io/badge/Fusion_360-Design-blue?style=for-the-badge&logo=fusion360&logoColor=white"/></a>
-    <a href="https://www.simplify3d.com"><img src="https://img.shields.io/badge/Simplify_3D-Design-blue?style=for-the-badge&logo=simplify3d&logoColor=white"/></a>
+    <a href="https://www.autodesk.com/products/fusion-360"><img src="https://img.shields.io/badge/Fusion_360-Design-blue?style=for-the-badge&logo=autodesk&logoColor=white"/></a>
+    <a href="https://www.simplify3d.com"><img src="https://img.shields.io/badge/Simplify_3D-Design-blue?style=for-the-badge&logo=blender&logoColor=white"/></a>
     <a href="https://carbide3d.com/carbidecreate/"><img src="https://img.shields.io/badge/Carbide_Create-Design-blue?style=for-the-badge&logo=blender&logoColor=white"/></a>
     <a href="https://orcadesign3d.com"><img src="https://img.shields.io/badge/OrcaSlicer-Design-blue?style=for-the-badge&logo=blender&logoColor=white"/></a>
   </p>
