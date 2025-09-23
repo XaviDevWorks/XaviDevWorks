@@ -29,6 +29,10 @@
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-Scripting-blue?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
   <a href="https://www.w3.org/XML/"><img src="https://img.shields.io/badge/XML-Data-blue?style=for-the-badge&logo=xml&logoColor=white"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-ES6+-blue?style=for-the-badge&logo=javascript&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-8.0-blue?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-1.9-blue?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+  <a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-5-blue?style=for-the-badge&logo=swift&logoColor=white"/></a>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-8-blue?style=for-the-badge&logo=php&logoColor=white"/></a>
 </p>
 
 ---
