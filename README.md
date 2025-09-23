@@ -19,94 +19,77 @@
 
 ---
 
-### - Languages and Tools...
+## 🧑‍💻 **Languages and Tools**
 
 <p align="center">
-  <!-- Todos los íconos existen en el repositorio ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <!-- Nuevos añadidos (verificados) -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/swift.svg" alt="swift" style="vertical-align:top; margin:4px">
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-10-blue?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-8-blue?style=for-the-badge&logo=php&logoColor=white"/></a>
+  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-1.9-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+  <a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-5-orange?style=for-the-badge&logo=swift&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-5.0-red?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-3.0-blue?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-Framework-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-Framework-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+  <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-IDE-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🛠️ **Tools and Technologies:**  
+## 🛠️ **Tools and Technologies**
 
-### **Databases:**  
+### **Databases**
 <div align="center">
-  <p>
-    <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-    <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
-  </p>
+  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
 </div>
 
-### **Development Tools:**  
+### **Design & Prototyping**
 <div align="center">
-  <p>
-    <a href="https://visualstudio.microsoft.com"><img src="https://img.shields.io/badge/Visual_Studio-IDE-blue?style=for-the-badge&logo=visualstudio&logoColor=white"/></a>
-    <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
-    <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-Tools-black?style=for-the-badge&logo=git&logoColor=white"/></a>
-    <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Tools-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  </p>
-</div>
-
-### **Design and Prototyping:**  
-<div align="center">
-  <p>
-    <a href="https://www.autodesk.com/products/fusion-360"><img src="https://img.shields.io/badge/Fusion_360-Design-blue?style=for-the-badge&logo=autodesk&logoColor=white"/></a>
-    <a href="https://www.simplify3d.com"><img src="https://img.shields.io/badge/Simplify_3D-Design-blue?style=for-the-badge&logo=blender&logoColor=white"/></a>
-    <a href="https://carbide3d.com/carbidecreate/"><img src="https://img.shields.io/badge/Carbide_Create-Design-blue?style=for-the-badge&logo=blender&logoColor=white"/></a>
-    <a href="https://orcadesign3d.com"><img src="https://img.shields.io/badge/OrcaSlicer-Design-blue?style=for-the-badge&logo=blender&logoColor=white"/></a>
-  </p>
+  <a href="https://www.autodesk.com/products/fusion-360"><img src="https://img.shields.io/badge/Fusion_360-Design-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white"/></a>
+  <a href="https://www.simplify3d.com"><img src="https://img.shields.io/badge/Simplify3D-Design-005FAD?style=for-the-badge&logo=blender&logoColor=white"/></a>
+  <a href="https://carbide3d.com/carbidecreate/"><img src="https://img.shields.io/badge/Carbide_Create-Design-00A98F?style=for-the-badge&logo=blender&logoColor=white"/></a>
+  <a href="https://orcadesign3d.com"><img src="https://img.shields.io/badge/OrcaSlicer-Design-FF4C60?style=for-the-badge&logo=blender&logoColor=white"/></a>
 </div>
 
 ---
 
-## 🏛️ **Education:**  
-- 🎓 **Technological Baccalaureate** - *La Salle Congrés*  
-- 🎓 **Development of Multiplatform Applications (DAM)** - *La Salle Gràcia*  
-- 🚁 **Drone Licence A1/A3** - *AESA*  
+## 🏛️ **Education**
+- 🎓 **Technological Baccalaureate** – *La Salle Congrés*  
+- 🎓 **Development of Multiplatform Applications (DAM)** – *La Salle Gràcia*  
+- 🚁 **Drone Licence A1/A3** – *AESA*  
 
 ---
 
-## 📈 **Projects in Development:**
+## 📈 **Projects in Development**
 <p align="center">
-  <img src="https://github-readme-stats-sigma-topaz-77.vercel.app/api?username=XaviDevWorks&show_icons=true&theme=github_dark&hide_border=true" alt="XaviDevWorks GitHub Stats" width="100%"/>
+  <img src="https://github-readme-stats-sigma-topaz-77.vercel.app/api?username=XaviDevWorks&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="100%"/>
 </p>
 
 ---
 
-## ⏳ **Coding Activity**  
+## ⏳ **Coding Activity**
 <p align="center">
   <img src="https://wakatime.com/share/@5694d6a7-cd95-4164-9f58-bfae51c03755/6ce12f57-00ac-406b-a4a2-e364a8ce9a88.svg" alt="WakaTime Stats"/>
 </p>
 
 ---
 
-## 🌐 **Connect with me:**  
+## 🌐 **Connect with me**
 <p align="center">
-  <a href="https://www.instagram.com/xavierfarrus/"><img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@xavierfarrus"><img src="https://img.shields.io/badge/YouTube-Follow%20Me-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/xavierfarrus/"><img src="https://img.shields.io/badge/Instagram-Follow_E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@xavierfarrus"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📧 **Contact Me:**  
+## 📧 **Contact Me**
 📩 **Email:** [xfarmart@gmail.com](mailto:xfarmart@gmail.com)  
 🌍 **Website:** [My Linktree](https://linktr.ee/xavierfarrus)  
 🐙 **GitHub:** [XaviDevWorks](https://github.com/XaviDevWorks)
