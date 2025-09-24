@@ -61,10 +61,12 @@
 
 ---
 
-## **Education**
+## 🏛️ **Education**
 <div align="center">
   <img src="https://img.shields.io/badge/Technological%20Baccalaureate-La%20Salle%20Congr%C3%A9s-4EAA25?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/DAM%20(Multiplatform%20Apps)-La%20Salle%20Gr%C3%A0cia-007ACC?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Drone%20Licence%20A1/A3-AESA-FF6F00?style=for-the-badge&logo=drone&logoColor=white"/>
 </div>
 
