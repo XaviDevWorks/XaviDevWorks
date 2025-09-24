@@ -70,6 +70,7 @@
 ## 📈 **Projects in Development**
 <p align="center">
   <img src="https://github-readme-stats-sigma-topaz-77.vercel.app/api?username=XaviDevWorks&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="100%"/>
+  <img src="https://wakatime.com/share/@5694d6a7-cd95-4164-9f58-bfae51c03755/6ce12f57-00ac-406b-a4a2-e364a8ce9a88.svg" alt="WakaTime Stats"/>
 </p>
 
 ---
