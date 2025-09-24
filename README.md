@@ -37,13 +37,13 @@
 
 ## ⚙️ **Tools and Technologies**
 
-### 🗃️ **Databases**
+### **Databases**
 <div align="center">
   <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
 </div>
 
-### 🧰 **Coding**
+### **Coding**
 <div align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
 </div>
 
-### 🎨 **Design & Prototyping**
+### **Design & Prototyping**
 <div align="center">
   <a href="https://www.autodesk.com/products/fusion-360"><img src="https://img.shields.io/badge/Fusion%20360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white"/></a>
   <a href="https://www.simplify3d.com"><img src="https://img.shields.io/badge/Simplify3D-005FAD?style=for-the-badge&logo=blender&logoColor=white"/></a>
@@ -62,7 +62,7 @@
 ---
 
 ## 📚 **Education**
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Technological%20Baccalaureate-La%20Salle%20Congr%C3%A9s-4EAA25?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/DAM%20(Multiplatform%20Apps)-La%20Salle%20Gr%C3%A0cia-007ACC?style=for-the-badge&logo=androidstudio&logoColor=white"/>
