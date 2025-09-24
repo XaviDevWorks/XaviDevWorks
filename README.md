@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
 </p>
 
----
 ## 🛠️ **Tools and Technologies**
 
 ### **Databases**
