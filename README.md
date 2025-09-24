@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑‍💻 <strong>Languages</strong>
+##<strong>Languages</strong>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
 </p>
 
-## 🛠️ **Tools and Technologies**
+##**Tools and Technologies**
 
 ### **Databases**
 <div align="center">
@@ -61,7 +61,7 @@
 
 ---
 
-## 🏛️ **Education**
+##**Education**
 <div align="center">
   <img src="https://img.shields.io/badge/Technological%20Baccalaureate-La%20Salle%20Congr%C3%A9s-4EAA25?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
   <img src="https://img.shields.io/badge/DAM%20(Multiplatform%20Apps)-La%20Salle%20Gr%C3%A0cia-007ACC?style=for-the-badge&logo=androidstudio&logoColor=white"/>
@@ -70,7 +70,7 @@
 
 ---
 
-## 📈 **Projects in Development**
+##**Projects in Development**
 
 <div align="center">
   <table>
@@ -87,14 +87,14 @@
 
 ---
 
-## ⏳ **Coding Activity**
+##**Coding Activity**
 <p align="center">
   <img src="https://wakatime.com/share/@5694d6a7-cd95-4164-9f58-bfae51c03755/6ce12f57-00ac-406b-a4a2-e364a8ce9a88.svg" alt="WakaTime Stats"/>
 </p>
 
 ---
 
-## 🌐 **Connect with me**
+##**Connect with me**
 <div align="center">
   <a href="https://www.instagram.com/xavierfarrus/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@xavierfarrus"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -102,7 +102,7 @@
 
 ---
 
-## 📧 **Contact Me**
+##**Contact Me**
 <div align="center">
   <a href="mailto:xfarmart@gmail.com"><img src="https://img.shields.io/badge/Email-xfarmart@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linktr.ee/xavierfarrus"><img src="https://img.shields.io/badge/Website-My%20Linktree-2EC866?style=for-the-badge&logo=linktree&logoColor=white"/></a>
