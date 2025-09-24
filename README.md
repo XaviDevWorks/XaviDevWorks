@@ -99,16 +99,11 @@
 
 ## 🌍 **Connect with me**
 <div align="center">
-  <a href="https://www.instagram.com/xavierfarrus/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@xavierfarrus" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://jo-el.es/user/Xavier_Farrus" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Jo--el-My_Profile-2a65ba?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+  <a href="https://www.instagram.com/xavierfarrus/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@xavierfarrus"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://jo-el.es/user/Xavier_Farrus"><img src="https://img.shields.io/badge/Jo--el-My_Profile-2a65ba?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </div>
+
 
 ---
 
